@@ -1,6 +1,4 @@
 [submodule "threejs/resources/dat-gui"]
 	path = threejs/resources/dat-gui
 	url = git@github.com:dataarts/dat.gui.git
-[submodule "Códigos"]
-	path = Códigos
-	url = git@github.com:learnthreejs/three-js-boilerplate.git
+
